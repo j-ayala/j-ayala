@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 # 💫 About Me:
 -👨‍💻 I am a Web Developer interested in Information Technology<br>-📧 Shoot me an Email or add me on LinkedIn
 
@@ -23,5 +21,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=j-ayala&icon=5&color=6)](https://visitcount.itsvg.in)
-
--->
